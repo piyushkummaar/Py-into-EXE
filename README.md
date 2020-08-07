@@ -17,8 +17,23 @@ To run this Script you have to type in cmd
 
 ```
     python py_to_exe.py file_name.py 
+   
 ```
 
 just replace file_name.py with your file or you all so specify the entire path of file where your file exists and hit enter. 
 
+## Test
+
+```
+ git clone https://github.com/piyushkummaar/Py-into-EXE.git
+```
+
+To run this script just simply write in your cmd 
+
+```
+        python py_to_exe.py hello.py 
+        
+```
+hello.py contains little GUI that show the tkinter button and shows the label 'Hello World!' 
+but for run hello.py you required tkinter
 
