@@ -1,4 +1,5 @@
 # Py-into-EXE
+This script Automate the process of converting py file into Exe
 This script help you to convert py into exe using pyinstaller.
 
 ## Steps to follow
